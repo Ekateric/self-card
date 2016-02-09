@@ -1,0 +1,14 @@
+{
+  "name": "SelfCard",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-less": "~3.0.5",
+    "gulp-imagemin": "~2.4.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-clean": "~0.3.1",
+    "gulp-cache": "~0.4.2",
+    "gulp-watch": "~4.3.5",
+    "less-plugin-autoprefix": "~1.5.1"
+  }
+}
